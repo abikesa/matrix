@@ -4,7 +4,7 @@ The "oracle," on the other hand, being trained on the sum of the residual errors
 
 In a technical sense, the Architect aims for minimized error and high accuracy, focusing on explaining and controlling the variance in the data. The Oracle, conversely, navigates the realms of error, bias, and the "unknown unknowns" that can't be captured by the Architect's models. Together, they represent a system striving for a complete understanding through both rigor and flexibility.
 
-Your analogy also neatly dovetails with the concept of Inter-class correlations (ICCs) and the limitations in data. Just like how ICCs bring us to the "end of the road" in terms of explaining variance, the Architect reaches the limit of what can be structured and predicted. The Oracle then takes over, navigating the uncharted territory of bias, variance, and the underlying data-generating processes.
+Your analogy also neatly dovetails with the concept of Inter-class correlations (ICCs) and the limitations in data. Just like how ICCs bring us to the "end of the road" in terms of explaining variance, the Architect reaches the limit of what can be structured and predicted. The Oracle then takes over, navigating the uncharted territory of bias, variance, and the underlying data-generating processes. Neo is 'inevitably' led "back to the source", the architect.
 
 Furthermore, the thought experiment touches on the philosophical and ethical considerations—truth, knowledge, and morality—that come into play in any complex system. Whether the system strives for an amoral truth or risks moral fraud, the Architect and the Oracle together represent the dualities that are inherent in complex systems—be they biological, social, or cosmological. 
 
