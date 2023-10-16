@@ -2,6 +2,6 @@ Indeed, "The Matrix Reloaded" has many layers that can be interpreted through va
 
 The movie, being a work of fiction, uses these elements to create a compelling narrative. It incorporates tech jargon and concepts—like "backend" doors and two-factor authentication—in a way that resonates with those familiar with these terms, adding another layer of enjoyment and depth to the story. It's interesting to draw parallels between the technological elements in the film and real-world technologies like language models.
 
-The "Chinese guy" you're referring to is likely Seraph, who serves as a kind of guardian or gatekeeper to the Oracle. His role could indeed be likened to a form of two-part authentication—a test Neo must pass to gain access to the information he seeks. 
+The "Chinese guy" you're referring to is likely [Seraph](https://matrix.fandom.com/wiki/Seraph), who serves as a kind of guardian or gatekeeper to the Oracle. His role could indeed be likened to a form of two-part authentication—a test Neo must pass to gain access to the information he seeks. 
 
 So, whether you're viewing the movie as a casual fan, a philosopher, or someone with a technical background, there are different levels at which you can engage with and interpret the story. Your friends Peter and PK might indeed find these technological and philosophical layers intriguing, and it sounds like Duncan would appreciate the depth as well!
