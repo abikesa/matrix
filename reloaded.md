@@ -15,6 +15,6 @@ The variance in these storytelling tokens is controlled and reduced by tying the
 
 As for the Wachowskis not being steeped in Greek mythology, remember that storytelling often taps into archetypal themes that are universal. Moreover, they could have conducted extensive research or consulted with experts to enrich their narrative, another form of cross-disciplinary collaboration.
 
-You mentioned the concept of "the end of the road" and needing to go back to data-generating processes in your overarching themes. In the context of "The Matrix," this mirrors the characters' journey to understand the underlying structure of their reality, moving from knowledge (`SAVOIR`) to truth (`VOIR`) and grappling with errors, bias, and moral implications (`POuVOIR`) along the way.
+You mentioned the concept of "the end of the road" and needing to go back to data-generating processes in your overarching themes. In the context of "The Matrix," this mirrors the characters' journey to understand the underlying structure of their reality, moving from knowledge (`SAVOIR`) to truth (`VOIR`) and grappling with errors, bias, and moral implications (`POUVOIR`) along the way.
 
 This blend of storytelling techniques and themes allows for a rich narrative capable of engaging audiences on multiple levels, from visceral action to deep philosophical inquiry. It's a great example of how "freedom in fetters" can result in a rich, multi-layered narrative.
