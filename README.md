@@ -8,7 +8,9 @@
    - Neo's dream
 2. Metaphysics
    - `That is impossible`
+   - Right now all I can tell you is that you are in `danger`
 3. Physics
+   - Only applies in Zion
 4. Song
    - Zion Nyege Nyege (in Reloaded)
 5. Art
