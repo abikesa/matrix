@@ -16,3 +16,4 @@
 5. Art
    - Intro to Trinity
 6. Life
+   - Blue or red? (Or yellow!) 
