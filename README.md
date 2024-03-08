@@ -11,6 +11,7 @@
    - All that was a dream (in the matrix)
    - Metacortex sccene is is "wakefulness" in the matrix
    - When Neo gets a call on a newly delivered Nokia 8110 that is a Paranoid Schizophrenic situation (or at least resembles it)
+   - How do I get out here? I can guide you but you must do as I say: i.e., passivity in Schizophrenia!!
 2. Metaphysics
    - `That is impossible`
    - Right now all I can tell you is that you are in `danger`
