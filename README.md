@@ -7,6 +7,7 @@
 1. Construct
    - Neo's dream
    - Trinity: everyone is looking for him; its the question that brought you here
+   - You know the question, Neo? It's "What is the Matrix?"
 2. Metaphysics
    - `That is impossible`
    - Right now all I can tell you is that you are in `danger`
