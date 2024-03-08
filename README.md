@@ -14,6 +14,7 @@
    - How do I get out here? I can guide you but you must do as I say: i.e., passivity in Schizophrenia!!
    - I like how Neo says "how do you know? ... this is crazy!" Yes, its Schizophrenia :(
    - So, I've outlined an example of an interpretation that one might have, but only *before* the sequels, which leave no room for me to project "my hypotheses"
+   - Reloaded makes it explicitly clear that all this is about AI and that the Matrix is a simulation; so only a tiny group of the audience were "correct" with their hypothesis
 2. Metaphysics
    - `That is impossible`
    - Right now all I can tell you is that you are in `danger`
