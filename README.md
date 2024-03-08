@@ -18,6 +18,7 @@
 2. Metaphysics
    - `That is impossible`
    - Right now all I can tell you is that you are in `danger`
+   - Boeing's 737 Max: all they had to do was [add a few lines of code](https://www.netflix.com/watch/81272421?trackId=255824129&tctx=0%2C0%2C5f250178-91e7-432d-862c-3f418cfdea49-83460438%2C5f250178-91e7-432d-862c-3f418cfdea49-83460438%7C2%2Cunknown%2C%2C%2CtitlesResults%2C81272421%2CVideo%3A81272421%2CminiDpPlayButton) to the MACS
 3. Physics
    - Only applies in Zion
 4. Song
