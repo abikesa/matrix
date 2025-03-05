@@ -996,7 +996,9 @@ V_i = \beta_0 + \beta_1 b_i + \beta_2 aw_i + \mathbf{Z}_i \gamma + \epsilon_i .
 <span class="k">def</span> <span class="nf">define_black_edges</span><span class="p">():</span>
     <span class="k">return</span> <span class="p">{</span>
         <span class="p">(</span><span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;CD4+&#39;</span><span class="p">):</span> <span class="s1">&#39;80/20&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span>
+        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">):</span> <span class="s1">&#39;20/80&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;51/49&#39;</span><span class="p">,</span>
     <span class="p">}</span>
 
 <span class="c1"># Calculate node positions</span>
@@ -1050,7 +1052,7 @@ V_i = \beta_0 + \beta_1 b_i + \beta_2 aw_i + \mathbf{Z}_i \gamma + \epsilon_i .
         <span class="n">node_size</span><span class="o">=</span><span class="mi">3000</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">9</span><span class="p">,</span> <span class="n">connectionstyle</span><span class="o">=</span><span class="s2">&quot;arc3,rad=0.2&quot;</span>
     <span class="p">)</span>
     <span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_edge_labels</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">edge_labels</span><span class="o">=</span><span class="n">edges_labels</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™: Salient Network&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™: Nonself &amp; the Salient Network&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
 <span class="c1"># Run the visualization</span>
@@ -1060,7 +1062,7 @@ V_i = \beta_0 + \beta_1 b_i + \beta_2 aw_i + \mathbf{Z}_i \gamma + \epsilon_i .
 </div>
 </details>
 <div class="cell_output docutils container">
-<img alt="../_images/11b03de27ad77b6b5c15a0ab530b907199b1bf6109ade60526b039f86a9606ad.png" src="../_images/11b03de27ad77b6b5c15a0ab530b907199b1bf6109ade60526b039f86a9606ad.png" />
+<img alt="../_images/eea879baf851a421b2d818881ada2190abad4691b952eb7c8abd271dcf6b6796.png" src="../_images/eea879baf851a421b2d818881ada2190abad4691b952eb7c8abd271dcf6b6796.png" />
 </div>
 </div>
 <figure class="align-default" id="id61">
