@@ -573,10 +573,12 @@ document.write(`
 <span class="c1"># Define edges to be highlighted in black</span>
 <span class="k">def</span> <span class="nf">define_black_edges</span><span class="p">():</span>
     <span class="k">return</span> <span class="p">{</span>
-        <span class="p">(</span><span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">,</span> <span class="s1">&#39;CD4+&#39;</span><span class="p">):</span> <span class="s1">&#39;80/20&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;TNF-α, IL-6, IFN-γ&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;PD-1 &amp; CTLA-4&#39;</span><span class="p">):</span> <span class="s1">&#39;20/80&#39;</span><span class="p">,</span>
-        <span class="p">(</span><span class="s1">&#39;CD4+&#39;</span><span class="p">,</span> <span class="s1">&#39;Tregs, IL-10, TGF-β, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;51/49&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;DNA, RNA,  5%&#39;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;1/99&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Peptidoglycans, Lipoteichoics&#39;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;5/95&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Lipopolysaccharide&#39;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;20/80&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;N-Formylmethionine&#39;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;51/49&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s2">&quot;Glucans, Chitin&quot;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;80/20&#39;</span><span class="p">,</span>
+        <span class="p">(</span><span class="s1">&#39;Specific Antigens&#39;</span><span class="p">,</span> <span class="s1">&#39;PRR &amp; ILCs, 20%&#39;</span><span class="p">):</span> <span class="s1">&#39;95/5&#39;</span><span class="p">,</span>
     <span class="p">}</span>
 
 <span class="c1"># Calculate node positions</span>
@@ -630,7 +632,7 @@ document.write(`
         <span class="n">node_size</span><span class="o">=</span><span class="mi">3000</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">9</span><span class="p">,</span> <span class="n">connectionstyle</span><span class="o">=</span><span class="s2">&quot;arc3,rad=0.2&quot;</span>
     <span class="p">)</span>
     <span class="n">nx</span><span class="o">.</span><span class="n">draw_networkx_edge_labels</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">edge_labels</span><span class="o">=</span><span class="n">edges_labels</span><span class="p">,</span> <span class="n">font_size</span><span class="o">=</span><span class="mi">8</span><span class="p">)</span>
-    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™: Adversorial Response (TPF), Unless Modulated by PD-1 (DMN)&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
+    <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&quot;OPRAH™ &amp; ARNTC&quot;</span><span class="p">,</span> <span class="n">fontsize</span><span class="o">=</span><span class="mi">18</span><span class="p">)</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
 <span class="c1"># Run the visualization</span>
@@ -640,7 +642,7 @@ document.write(`
 </div>
 </details>
 <div class="cell_output docutils container">
-<img alt="../_images/f482c0f06a995de68c576f9ef26dd5fa8bf812239cbd990fa53da7c98e34b108.png" src="../_images/f482c0f06a995de68c576f9ef26dd5fa8bf812239cbd990fa53da7c98e34b108.png" />
+<img alt="../_images/aa8c78a2f085346a2cbb760178e16bf26e2a85d21bf65326f0295ab80edeb473.png" src="../_images/aa8c78a2f085346a2cbb760178e16bf26e2a85d21bf65326f0295ab80edeb473.png" />
 </div>
 </div>
 <figure class="align-default" id="id9">
